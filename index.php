@@ -4,7 +4,7 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.0.2/semantic.min.css" />
 	    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.0.2/semantic.min.js"></script>
-		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
 		<title>Inventory Lookup</title>
 
 	</head>
