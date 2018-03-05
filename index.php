@@ -6,7 +6,7 @@
 	    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.0.2/semantic.min.js"></script>
 		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
 		<title>Inventory Lookup</title>
-		
+
 	</head>
 	<body onload="return start()">
 		<div class="ui container">
